@@ -15,7 +15,7 @@
 }
 .header{
 	background-color: #191919;
-	isolation: isolate;
+	
 	
 }
 .header .container{
@@ -25,9 +25,9 @@
 .socialicon{
 list-style-type: none;
 display: inline-block;
-margin: 5px;
-padding-left: 5%;
-font-size: 15px;
+margin: 00px;
+padding-left: 8%;
+font-size: 20px;
  
 }
 .socialicon>li{
@@ -37,7 +37,7 @@ padding-bottom: 0px;
 
 }
 .socialicon>li>a{
-padding-right: 15px;
+padding-right: 20px;
 color: #fff;
 text-decoration: none;
 }
@@ -113,7 +113,7 @@ padding-left: 5%;
 		font-size: 11px;
 }
 .socialicon>li{
-	font-size: 50px;
+	font-size: 11px;
 }
 .socialicon{
 	padding-left: 0px;
@@ -129,7 +129,7 @@ padding-left: 5%;
 	z-index: 999;
 	width:124px;
 	height: 124px;
-	padding-top: 12px;
+	padding-top: 30px;
 	padding-left: 40px;
 	
 
@@ -1286,7 +1286,7 @@ padding-left: 0px;
 }
 .leftside>img{
 	position: relative;
-	width:51.5%;
+	width:45%;
 	margin-top: 7%;
 	margin-left: 8.1%;
 	margin-bottom: 7%;
@@ -1298,18 +1298,18 @@ padding-left: 0px;
 }
 .leftside>h1{
 	font-family: "OpenSans Bold";
-	top:39%;
+	top:30%;
 	left: 13.2%;
 	position: absolute;
 	font-size: 27px;
-	letter-spacing: 8px;
+	letter-spacing: px;
 	z-index: 100;
 	margin: 0px;
 }
 .leftside>p{
 	position: absolute;
-	font-family: "OpenSans Regular";
-	top:47.5%;
+	font-family: "OpenSans Bold";
+	top:40%;
 	left: 13.2%;
 	font-size: 20px;
 	z-index: 100;
