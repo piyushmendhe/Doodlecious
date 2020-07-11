@@ -24,7 +24,7 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-/*const options = {
+const options = {
   bottom: '32px', // default: '32px'
   right: '10px', // default: '32px'
   left: 'unset', // default: 'unset'
@@ -40,7 +40,7 @@ if (typeof jQuery === 'undefined') {
 }
 
 const darkmode = new Darkmode(options);
-darkmode.showWidget();*/
+darkmode.showWidget("darkmode");
 
 +function ($) {
   'use strict';
