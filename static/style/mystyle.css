@@ -7,15 +7,14 @@
  License:  GARAGE template is under Creative Commons Attribution 4.0 International License.
  Template: GARAGE
  */
-
 .allcontain{
 	max-width: 1400px;
 	margin-left: auto;
 	margin-right: auto;
 }
-.darkmode{
-	position: absolute;
-
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
+}
 }
 .header{
 	background-color: #191919;
