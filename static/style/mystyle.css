@@ -11,8 +11,10 @@
 	max-width: 1400px;
 	margin-left: auto;
 	margin-right: auto;
+
 }
-.darkmode-layer, .darkmode-toggle {
+.darkmode-toggle {
+  position: absolute;	
   z-index: 500;
 }
 .header{
@@ -1529,7 +1531,7 @@ left: 0%;
 
 }
 .bottomsocial>a{
-	color: black;
+	color:  #C59E47;
 	padding-right: 20px;
 }
 .bottomsocial>a:hover{
