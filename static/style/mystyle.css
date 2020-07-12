@@ -1262,7 +1262,7 @@ padding-left: 0px;
 
 }
 .txthover>img{
-	page-break-inside: 20px;
+	position:absolute;
 	width:100%;
 
 }
