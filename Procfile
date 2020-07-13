@@ -1,1 +1,1 @@
-web: gunicorn mona.wsgi
+web: gunicorn web.wsgi
